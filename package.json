@@ -1,6 +1,5 @@
-
 {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start"
+  "dependencies": {
+    "firebase": "^11.7.1"
+  }
 }
